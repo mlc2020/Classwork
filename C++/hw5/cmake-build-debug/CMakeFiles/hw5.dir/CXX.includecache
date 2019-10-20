@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mihiros/CLionProjects/hw5/blas.cpp
+iostream
+-
+cmath
+-
+blas.h
+C:/Users/Mihiros/CLionProjects/hw5/blas.h
+
+C:/Users/Mihiros/CLionProjects/hw5/blas.h
+

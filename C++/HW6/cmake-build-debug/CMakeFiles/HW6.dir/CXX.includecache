@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mihiros/CLionProjects/HW6/functions.h
+
+C:/Users/Mihiros/CLionProjects/HW6/provided.h
+
+C:/Users/Mihiros/CLionProjects/HW6/vacation.cpp
+iostream
+-
+fstream
+-
+functions.h
+C:/Users/Mihiros/CLionProjects/HW6/functions.h
+provided.h
+C:/Users/Mihiros/CLionProjects/HW6/provided.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mihiros/CLionProjects/HW2/differentdigits.cpp
+iostream
+-
+vector
+-
+functions.h
+C:/Users/Mihiros/CLionProjects/HW2/functions.h
+
+C:/Users/Mihiros/CLionProjects/HW2/functions.h
+
