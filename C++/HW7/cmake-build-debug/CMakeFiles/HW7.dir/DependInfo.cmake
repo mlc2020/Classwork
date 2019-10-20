@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Mihiros/CLionProjects/HW7/functions.cpp" "C:/Users/Mihiros/CLionProjects/HW7/cmake-build-debug/CMakeFiles/HW7.dir/functions.cpp.obj"
-  "C:/Users/Mihiros/CLionProjects/HW7/seamcarving.cpp" "C:/Users/Mihiros/CLionProjects/HW7/cmake-build-debug/CMakeFiles/HW7.dir/seamcarving.cpp.obj"
+  "C:/Users/Mihiros/CLionProjects/Classwork/C++/HW7/functions.cpp" "C:/Users/Mihiros/CLionProjects/Classwork/C++/HW7/cmake-build-debug/CMakeFiles/HW7.dir/functions.cpp.obj"
+  "C:/Users/Mihiros/CLionProjects/Classwork/C++/HW7/seamcarving.cpp" "C:/Users/Mihiros/CLionProjects/Classwork/C++/HW7/cmake-build-debug/CMakeFiles/HW7.dir/seamcarving.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

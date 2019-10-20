@@ -1,3 +1,0 @@
-C:/Users/Mihiros/CLionProjects/Classwork/cmake-build-debug/CMakeFiles/Classwork.dir
-C:/Users/Mihiros/CLionProjects/Classwork/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mihiros/CLionProjects/Classwork/cmake-build-debug/CMakeFiles/rebuild_cache.dir

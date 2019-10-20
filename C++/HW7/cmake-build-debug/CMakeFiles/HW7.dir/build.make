@@ -42,10 +42,10 @@ RM = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.3
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\HW7
+CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\HW7\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/HW7.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/HW7.dir/flags.make
 
 CMakeFiles/HW7.dir/seamcarving.cpp.obj: CMakeFiles/HW7.dir/flags.make
 CMakeFiles/HW7.dir/seamcarving.cpp.obj: ../seamcarving.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\HW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HW7.dir/seamcarving.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HW7.dir\seamcarving.cpp.obj -c C:\Users\Mihiros\CLionProjects\HW7\seamcarving.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HW7.dir/seamcarving.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HW7.dir\seamcarving.cpp.obj -c C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\seamcarving.cpp
 
 CMakeFiles/HW7.dir/seamcarving.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HW7.dir/seamcarving.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\HW7\seamcarving.cpp > CMakeFiles\HW7.dir\seamcarving.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\seamcarving.cpp > CMakeFiles\HW7.dir\seamcarving.cpp.i
 
 CMakeFiles/HW7.dir/seamcarving.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HW7.dir/seamcarving.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\HW7\seamcarving.cpp -o CMakeFiles\HW7.dir\seamcarving.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\seamcarving.cpp -o CMakeFiles\HW7.dir\seamcarving.cpp.s
 
 CMakeFiles/HW7.dir/functions.cpp.obj: CMakeFiles/HW7.dir/flags.make
 CMakeFiles/HW7.dir/functions.cpp.obj: ../functions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\HW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HW7.dir/functions.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HW7.dir\functions.cpp.obj -c C:\Users\Mihiros\CLionProjects\HW7\functions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HW7.dir/functions.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HW7.dir\functions.cpp.obj -c C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\functions.cpp
 
 CMakeFiles/HW7.dir/functions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HW7.dir/functions.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\HW7\functions.cpp > CMakeFiles\HW7.dir\functions.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\functions.cpp > CMakeFiles\HW7.dir\functions.cpp.i
 
 CMakeFiles/HW7.dir/functions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HW7.dir/functions.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\HW7\functions.cpp -o CMakeFiles\HW7.dir\functions.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\functions.cpp -o CMakeFiles\HW7.dir\functions.cpp.s
 
 # Object files for target HW7
 HW7_OBJECTS = \
@@ -96,7 +96,7 @@ HW7.exe: CMakeFiles/HW7.dir/build.make
 HW7.exe: CMakeFiles/HW7.dir/linklibs.rsp
 HW7.exe: CMakeFiles/HW7.dir/objects1.rsp
 HW7.exe: CMakeFiles/HW7.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mihiros\CLionProjects\HW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable HW7.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable HW7.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\HW7.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/HW7.dir/clean:
 .PHONY : CMakeFiles/HW7.dir/clean
 
 CMakeFiles/HW7.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Mihiros\CLionProjects\HW7 C:\Users\Mihiros\CLionProjects\HW7 C:\Users\Mihiros\CLionProjects\HW7\cmake-build-debug C:\Users\Mihiros\CLionProjects\HW7\cmake-build-debug C:\Users\Mihiros\CLionProjects\HW7\cmake-build-debug\CMakeFiles\HW7.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7 C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7 C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\cmake-build-debug C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\cmake-build-debug C:\Users\Mihiros\CLionProjects\Classwork\C++\HW7\cmake-build-debug\CMakeFiles\HW7.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/HW7.dir/depend
 
