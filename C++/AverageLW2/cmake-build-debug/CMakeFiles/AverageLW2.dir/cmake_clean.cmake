@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/AverageLW2.dir/main.cpp.obj"
-  "AverageLW2.pdb"
   "AverageLW2.exe"
   "AverageLW2.exe.manifest"
+  "AverageLW2.pdb"
+  "CMakeFiles/AverageLW2.dir/main.cpp.obj"
   "libAverageLW2.dll.a"
 )
 
