@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mihiros/CLionProjects/Classwork/C++/LW9/functions.cpp
+iostream
+-
+cstdlib
+-
+functions.h
+C:/Users/Mihiros/CLionProjects/Classwork/C++/LW9/functions.h
+
+C:/Users/Mihiros/CLionProjects/Classwork/C++/LW9/functions.h
+
