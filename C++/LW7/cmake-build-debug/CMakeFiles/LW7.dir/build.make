@@ -42,10 +42,10 @@ RM = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.3
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\LW7
+CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LW7.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/LW7.dir/flags.make
 
 CMakeFiles/LW7.dir/Stack.cpp.obj: CMakeFiles/LW7.dir/flags.make
 CMakeFiles/LW7.dir/Stack.cpp.obj: ../Stack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LW7.dir/Stack.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LW7.dir\Stack.cpp.obj -c C:\Users\Mihiros\CLionProjects\LW7\Stack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LW7.dir/Stack.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LW7.dir\Stack.cpp.obj -c C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\Stack.cpp
 
 CMakeFiles/LW7.dir/Stack.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LW7.dir/Stack.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\LW7\Stack.cpp > CMakeFiles\LW7.dir\Stack.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\Stack.cpp > CMakeFiles\LW7.dir\Stack.cpp.i
 
 CMakeFiles/LW7.dir/Stack.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LW7.dir/Stack.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\LW7\Stack.cpp -o CMakeFiles\LW7.dir\Stack.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\Stack.cpp -o CMakeFiles\LW7.dir\Stack.cpp.s
 
 CMakeFiles/LW7.dir/RPN.cpp.obj: CMakeFiles/LW7.dir/flags.make
 CMakeFiles/LW7.dir/RPN.cpp.obj: ../RPN.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LW7.dir/RPN.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LW7.dir\RPN.cpp.obj -c C:\Users\Mihiros\CLionProjects\LW7\RPN.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LW7.dir/RPN.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LW7.dir\RPN.cpp.obj -c C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\RPN.cpp
 
 CMakeFiles/LW7.dir/RPN.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LW7.dir/RPN.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\LW7\RPN.cpp > CMakeFiles\LW7.dir\RPN.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\RPN.cpp > CMakeFiles\LW7.dir\RPN.cpp.i
 
 CMakeFiles/LW7.dir/RPN.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LW7.dir/RPN.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\LW7\RPN.cpp -o CMakeFiles\LW7.dir\RPN.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\RPN.cpp -o CMakeFiles\LW7.dir\RPN.cpp.s
 
 # Object files for target LW7
 LW7_OBJECTS = \
@@ -96,7 +96,7 @@ LW7.exe: CMakeFiles/LW7.dir/build.make
 LW7.exe: CMakeFiles/LW7.dir/linklibs.rsp
 LW7.exe: CMakeFiles/LW7.dir/objects1.rsp
 LW7.exe: CMakeFiles/LW7.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LW7.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LW7.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LW7.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/LW7.dir/clean:
 .PHONY : CMakeFiles/LW7.dir/clean
 
 CMakeFiles/LW7.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Mihiros\CLionProjects\LW7 C:\Users\Mihiros\CLionProjects\LW7 C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug\CMakeFiles\LW7.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7 C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7 C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug\CMakeFiles\LW7.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/LW7.dir/depend
 

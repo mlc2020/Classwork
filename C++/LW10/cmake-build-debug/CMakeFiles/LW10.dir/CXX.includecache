@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Mihiros/CLionProjects/Classwork/C++/LW10/Vect.cpp
+Vect.h
+C:/Users/Mihiros/CLionProjects/Classwork/C++/LW10/Vect.h
+cstdlib
+-
+
+C:/Users/Mihiros/CLionProjects/Classwork/C++/LW10/Vect.h
+
+C:/Users/Mihiros/CLionProjects/Classwork/C++/LW10/main.cpp
+iostream
+-
+Vect.h
+C:/Users/Mihiros/CLionProjects/Classwork/C++/LW10/Vect.h
+

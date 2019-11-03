@@ -47,10 +47,10 @@ RM = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.3
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\LW7
+CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug\CMakeFiles C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug\CMakeFiles C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\LW7\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW7\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Mihiros/CLionProjects/LW8/max.cpp" "C:/Users/Mihiros/CLionProjects/LW8/cmake-build-debug/CMakeFiles/LW8.dir/max.cpp.obj"
-  "C:/Users/Mihiros/CLionProjects/LW8/pi.cpp" "C:/Users/Mihiros/CLionProjects/LW8/cmake-build-debug/CMakeFiles/LW8.dir/pi.cpp.obj"
+  "C:/Users/Mihiros/CLionProjects/Classwork/C++/LW8/max.cpp" "C:/Users/Mihiros/CLionProjects/Classwork/C++/LW8/cmake-build-debug/CMakeFiles/LW8.dir/max.cpp.obj"
+  "C:/Users/Mihiros/CLionProjects/Classwork/C++/LW8/pi.cpp" "C:/Users/Mihiros/CLionProjects/Classwork/C++/LW8/cmake-build-debug/CMakeFiles/LW8.dir/pi.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

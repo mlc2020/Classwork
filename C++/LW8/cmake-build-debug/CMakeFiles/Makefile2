@@ -43,10 +43,10 @@ RM = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.3
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\LW8
+CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -73,14 +73,14 @@ preinstall:
 CMakeFiles/LW8.dir/all:
 	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/depend
 	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target LW8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target LW8"
 .PHONY : CMakeFiles/LW8.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/LW8.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug\CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles 3
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/LW8.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/LW8.dir/rule
 
 # Convenience name for target.

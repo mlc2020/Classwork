@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Mihiros/CLionProjects/LW7/RPN.cpp" "C:/Users/Mihiros/CLionProjects/LW7/cmake-build-debug/CMakeFiles/LW7.dir/RPN.cpp.obj"
-  "C:/Users/Mihiros/CLionProjects/LW7/Stack.cpp" "C:/Users/Mihiros/CLionProjects/LW7/cmake-build-debug/CMakeFiles/LW7.dir/Stack.cpp.obj"
+  "C:/Users/Mihiros/CLionProjects/Classwork/C++/LW7/RPN.cpp" "C:/Users/Mihiros/CLionProjects/Classwork/C++/LW7/cmake-build-debug/CMakeFiles/LW7.dir/RPN.cpp.obj"
+  "C:/Users/Mihiros/CLionProjects/Classwork/C++/LW7/Stack.cpp" "C:/Users/Mihiros/CLionProjects/Classwork/C++/LW7/cmake-build-debug/CMakeFiles/LW7.dir/Stack.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

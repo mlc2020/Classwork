@@ -42,10 +42,10 @@ RM = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.3
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\LW8
+CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/LW8.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/LW8.dir/flags.make
 
 CMakeFiles/LW8.dir/pi.cpp.obj: CMakeFiles/LW8.dir/flags.make
 CMakeFiles/LW8.dir/pi.cpp.obj: ../pi.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LW8.dir/pi.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LW8.dir\pi.cpp.obj -c C:\Users\Mihiros\CLionProjects\LW8\pi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LW8.dir/pi.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LW8.dir\pi.cpp.obj -c C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\pi.cpp
 
 CMakeFiles/LW8.dir/pi.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LW8.dir/pi.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\LW8\pi.cpp > CMakeFiles\LW8.dir\pi.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\pi.cpp > CMakeFiles\LW8.dir\pi.cpp.i
 
 CMakeFiles/LW8.dir/pi.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LW8.dir/pi.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\LW8\pi.cpp -o CMakeFiles\LW8.dir\pi.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\pi.cpp -o CMakeFiles\LW8.dir\pi.cpp.s
 
 CMakeFiles/LW8.dir/max.cpp.obj: CMakeFiles/LW8.dir/flags.make
 CMakeFiles/LW8.dir/max.cpp.obj: ../max.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LW8.dir/max.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LW8.dir\max.cpp.obj -c C:\Users\Mihiros\CLionProjects\LW8\max.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/LW8.dir/max.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LW8.dir\max.cpp.obj -c C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\max.cpp
 
 CMakeFiles/LW8.dir/max.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LW8.dir/max.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\LW8\max.cpp > CMakeFiles\LW8.dir\max.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\max.cpp > CMakeFiles\LW8.dir\max.cpp.i
 
 CMakeFiles/LW8.dir/max.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LW8.dir/max.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\LW8\max.cpp -o CMakeFiles\LW8.dir\max.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\max.cpp -o CMakeFiles\LW8.dir\max.cpp.s
 
 # Object files for target LW8
 LW8_OBJECTS = \
@@ -96,7 +96,7 @@ LW8.exe: CMakeFiles/LW8.dir/build.make
 LW8.exe: CMakeFiles/LW8.dir/linklibs.rsp
 LW8.exe: CMakeFiles/LW8.dir/objects1.rsp
 LW8.exe: CMakeFiles/LW8.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LW8.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable LW8.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\LW8.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/LW8.dir/clean:
 .PHONY : CMakeFiles/LW8.dir/clean
 
 CMakeFiles/LW8.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Mihiros\CLionProjects\LW8 C:\Users\Mihiros\CLionProjects\LW8 C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug C:\Users\Mihiros\CLionProjects\LW8\cmake-build-debug\CMakeFiles\LW8.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8 C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8 C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles\LW8.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/LW8.dir/depend
 
