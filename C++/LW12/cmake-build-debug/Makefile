@@ -47,10 +47,10 @@ RM = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.3
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8
+CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW12
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW12\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW12\cmake-build-debug\CMakeFiles C:\Users\Mihiros\CLionProjects\Classwork\C++\LW12\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW12\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -110,71 +110,125 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named LW8
+# Target rules for targets named LW12
 
 # Build rule for target.
-LW8: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 LW8
-.PHONY : LW8
+LW12: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 LW12
+.PHONY : LW12
 
 # fast build rule for target.
-LW8/fast:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/build
-.PHONY : LW8/fast
+LW12/fast:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/build
+.PHONY : LW12/fast
 
-max.obj: max.cpp.obj
+Image.obj: Image.cpp.obj
 
-.PHONY : max.obj
-
-# target to build an object file
-max.cpp.obj:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/max.cpp.obj
-.PHONY : max.cpp.obj
-
-max.i: max.cpp.i
-
-.PHONY : max.i
-
-# target to preprocess a source file
-max.cpp.i:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/max.cpp.i
-.PHONY : max.cpp.i
-
-max.s: max.cpp.s
-
-.PHONY : max.s
-
-# target to generate assembly for a file
-max.cpp.s:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/max.cpp.s
-.PHONY : max.cpp.s
-
-pi.obj: pi.cpp.obj
-
-.PHONY : pi.obj
+.PHONY : Image.obj
 
 # target to build an object file
-pi.cpp.obj:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/pi.cpp.obj
-.PHONY : pi.cpp.obj
+Image.cpp.obj:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/Image.cpp.obj
+.PHONY : Image.cpp.obj
 
-pi.i: pi.cpp.i
+Image.i: Image.cpp.i
 
-.PHONY : pi.i
+.PHONY : Image.i
 
 # target to preprocess a source file
-pi.cpp.i:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/pi.cpp.i
-.PHONY : pi.cpp.i
+Image.cpp.i:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/Image.cpp.i
+.PHONY : Image.cpp.i
 
-pi.s: pi.cpp.s
+Image.s: Image.cpp.s
 
-.PHONY : pi.s
+.PHONY : Image.s
 
 # target to generate assembly for a file
-pi.cpp.s:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/pi.cpp.s
-.PHONY : pi.cpp.s
+Image.cpp.s:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/Image.cpp.s
+.PHONY : Image.cpp.s
+
+Pixel.obj: Pixel.cpp.obj
+
+.PHONY : Pixel.obj
+
+# target to build an object file
+Pixel.cpp.obj:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/Pixel.cpp.obj
+.PHONY : Pixel.cpp.obj
+
+Pixel.i: Pixel.cpp.i
+
+.PHONY : Pixel.i
+
+# target to preprocess a source file
+Pixel.cpp.i:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/Pixel.cpp.i
+.PHONY : Pixel.cpp.i
+
+Pixel.s: Pixel.cpp.s
+
+.PHONY : Pixel.s
+
+# target to generate assembly for a file
+Pixel.cpp.s:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/Pixel.cpp.s
+.PHONY : Pixel.cpp.s
+
+functions.obj: functions.cpp.obj
+
+.PHONY : functions.obj
+
+# target to build an object file
+functions.cpp.obj:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/functions.cpp.obj
+.PHONY : functions.cpp.obj
+
+functions.i: functions.cpp.i
+
+.PHONY : functions.i
+
+# target to preprocess a source file
+functions.cpp.i:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/functions.cpp.i
+.PHONY : functions.cpp.i
+
+functions.s: functions.cpp.s
+
+.PHONY : functions.s
+
+# target to generate assembly for a file
+functions.cpp.s:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/functions.cpp.s
+.PHONY : functions.cpp.s
+
+manip.obj: manip.cpp.obj
+
+.PHONY : manip.obj
+
+# target to build an object file
+manip.cpp.obj:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/manip.cpp.obj
+.PHONY : manip.cpp.obj
+
+manip.i: manip.cpp.i
+
+.PHONY : manip.i
+
+# target to preprocess a source file
+manip.cpp.i:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/manip.cpp.i
+.PHONY : manip.cpp.i
+
+manip.s: manip.cpp.s
+
+.PHONY : manip.s
+
+# target to generate assembly for a file
+manip.cpp.s:
+	$(MAKE) -f CMakeFiles\LW12.dir\build.make CMakeFiles/LW12.dir/manip.cpp.s
+.PHONY : manip.cpp.s
 
 # Help Target
 help:
@@ -182,15 +236,21 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... LW8
+	@echo ... LW12
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... max.obj
-	@echo ... max.i
-	@echo ... max.s
-	@echo ... pi.obj
-	@echo ... pi.i
-	@echo ... pi.s
+	@echo ... Image.obj
+	@echo ... Image.i
+	@echo ... Image.s
+	@echo ... Pixel.obj
+	@echo ... Pixel.i
+	@echo ... Pixel.s
+	@echo ... functions.obj
+	@echo ... functions.i
+	@echo ... functions.s
+	@echo ... manip.obj
+	@echo ... manip.i
+	@echo ... manip.s
 .PHONY : help
 
 

@@ -12,7 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf32bcb1-0297-4a49-b090-578acd36f3eb" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/../HW7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW7/.idea/workspace.xml" afterDir="false" />
+=======
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
@@ -28,6 +31,10 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LW7.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LW7.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LW7.dir/depend.internal" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LW7.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LW7.dir/depend.make" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LW7.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LW7.dir/link.txt" afterDir="false" />
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LW7.dir/objects.a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
@@ -36,6 +43,7 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LW7.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LW7.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/../LW8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LW8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LW8/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../LW8/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LW8/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../LW8/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
@@ -63,6 +71,8 @@
       <change beforePath="$PROJECT_DIR$/../LW8/cmake-build-debug/LW8.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../LW8/cmake-build-debug/LW8.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LW8/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../LW8/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LW8/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../LW8/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,8 +127,14 @@
       <workItem from="1570823763830" duration="73000" />
       <workItem from="1570841765795" duration="11233000" />
       <workItem from="1571418982146" duration="600000" />
+<<<<<<< Updated upstream
       <workItem from="1572641145192" duration="2244000" />
       <workItem from="1572668832527" duration="1209000" />
+=======
+      <workItem from="1572998016274" duration="631000" />
+      <workItem from="1573246896722" duration="106000" />
+      <workItem from="1573266028989" duration="1751000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>

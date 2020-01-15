@@ -1,3 +1,0 @@
-C:/Users/Mihiros/CLionProjects/Classwork/C++/LW10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Mihiros/CLionProjects/Classwork/C++/LW10/cmake-build-debug/CMakeFiles/LW10.dir
-C:/Users/Mihiros/CLionProjects/Classwork/C++/LW10/cmake-build-debug/CMakeFiles/edit_cache.dir

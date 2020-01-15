@@ -38,19 +38,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\win\bin\cmake.exe -E remove -f
+RM = C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8
+CMAKE_SOURCE_DIR = "C:\Users\Mihiros\CLionProjects\Classwork\C++\HW 11"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug
+CMAKE_BINARY_DIR = "C:\Users\Mihiros\CLionProjects\Classwork\C++\HW 11\cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
+	C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -69,7 +69,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.7142.39\bin\cmake\win\bin\cmake.exe -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.5662.56\bin\cmake\win\bin\cmake.exe -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Mihiros\CLionProjects\Classwork\C++\HW 11\cmake-build-debug\CMakeFiles" "C:\Users\Mihiros\CLionProjects\Classwork\C++\HW 11\cmake-build-debug\CMakeFiles\progress.marks"
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Mihiros\CLionProjects\Classwork\C++\LW8\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Mihiros\CLionProjects\Classwork\C++\HW 11\cmake-build-debug\CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -110,71 +110,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named LW8
+# Target rules for targets named HW_11
 
 # Build rule for target.
-LW8: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 LW8
-.PHONY : LW8
+HW_11: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 HW_11
+.PHONY : HW_11
 
 # fast build rule for target.
-LW8/fast:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/build
-.PHONY : LW8/fast
+HW_11/fast:
+	$(MAKE) -f CMakeFiles\HW_11.dir\build.make CMakeFiles/HW_11.dir/build
+.PHONY : HW_11/fast
 
-max.obj: max.cpp.obj
+driver.obj: driver.cpp.obj
 
-.PHONY : max.obj
-
-# target to build an object file
-max.cpp.obj:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/max.cpp.obj
-.PHONY : max.cpp.obj
-
-max.i: max.cpp.i
-
-.PHONY : max.i
-
-# target to preprocess a source file
-max.cpp.i:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/max.cpp.i
-.PHONY : max.cpp.i
-
-max.s: max.cpp.s
-
-.PHONY : max.s
-
-# target to generate assembly for a file
-max.cpp.s:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/max.cpp.s
-.PHONY : max.cpp.s
-
-pi.obj: pi.cpp.obj
-
-.PHONY : pi.obj
+.PHONY : driver.obj
 
 # target to build an object file
-pi.cpp.obj:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/pi.cpp.obj
-.PHONY : pi.cpp.obj
+driver.cpp.obj:
+	$(MAKE) -f CMakeFiles\HW_11.dir\build.make CMakeFiles/HW_11.dir/driver.cpp.obj
+.PHONY : driver.cpp.obj
 
-pi.i: pi.cpp.i
+driver.i: driver.cpp.i
 
-.PHONY : pi.i
+.PHONY : driver.i
 
 # target to preprocess a source file
-pi.cpp.i:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/pi.cpp.i
-.PHONY : pi.cpp.i
+driver.cpp.i:
+	$(MAKE) -f CMakeFiles\HW_11.dir\build.make CMakeFiles/HW_11.dir/driver.cpp.i
+.PHONY : driver.cpp.i
 
-pi.s: pi.cpp.s
+driver.s: driver.cpp.s
 
-.PHONY : pi.s
+.PHONY : driver.s
 
 # target to generate assembly for a file
-pi.cpp.s:
-	$(MAKE) -f CMakeFiles\LW8.dir\build.make CMakeFiles/LW8.dir/pi.cpp.s
-.PHONY : pi.cpp.s
+driver.cpp.s:
+	$(MAKE) -f CMakeFiles\HW_11.dir\build.make CMakeFiles/HW_11.dir/driver.cpp.s
+.PHONY : driver.cpp.s
 
 # Help Target
 help:
@@ -182,15 +155,12 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... LW8
+	@echo ... HW_11
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... max.obj
-	@echo ... max.i
-	@echo ... max.s
-	@echo ... pi.obj
-	@echo ... pi.i
-	@echo ... pi.s
+	@echo ... driver.obj
+	@echo ... driver.i
+	@echo ... driver.s
 .PHONY : help
 
 

@@ -1,3 +1,0 @@
-C:/Users/Mihiros/CLionProjects/LW4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mihiros/CLionProjects/LW4/cmake-build-debug/CMakeFiles/LW4.dir
-C:/Users/Mihiros/CLionProjects/LW4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

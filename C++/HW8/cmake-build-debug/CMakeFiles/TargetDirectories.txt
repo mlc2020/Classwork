@@ -1,3 +1,0 @@
-C:/Users/Mihiros/CLionProjects/Classwork/C++/HW8/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mihiros/CLionProjects/Classwork/C++/HW8/cmake-build-debug/CMakeFiles/HW8.dir
-C:/Users/Mihiros/CLionProjects/Classwork/C++/HW8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/Mihiros/CLionProjects/Classwork/C++/AverageLW2/cmake-build-debug/CMakeFiles/AverageLW2.dir
-C:/Users/Mihiros/CLionProjects/Classwork/C++/AverageLW2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mihiros/CLionProjects/Classwork/C++/AverageLW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:\Users\Mihiros\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6817.32\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\LW8.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\LW8.dir/objects.a @CMakeFiles\LW8.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\LW8.dir/objects.a -Wl,--no-whole-archive  -o LW8.exe -Wl,--out-implib,libLW8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LW8.dir\linklibs.rsp
